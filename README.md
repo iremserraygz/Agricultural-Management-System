@@ -1,11 +1,5 @@
 Agricultural Management System
-Project Details
-Course: COMP 1112 Object Oriented Programming
-Semester: Spring 2022
-Project: #2
-Due Date: June 1, 2022, 23:59
-Instructor's Note: "The bearing of a child takes nine months, no matter how many women are assigned." - Fred Brooks
-Description
+
 The goal of this project is to design and implement an Agricultural Crop Management System. This system involves managing three main entities:
 1.	Crop (abstract class, divided into two types: Fruit and Vegetable)
 2.	Store (stores only Fruits in cooler rooms, manages storage capacity)
@@ -111,5 +105,4 @@ Notes
 •	Implement exception handling for all required operations.
 •	Feel free to add additional attributes or methods if needed.
 •	Ensure proper file reading and object creation at the start of the program.
-Good luck!
 
