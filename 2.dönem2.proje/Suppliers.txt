@@ -1,0 +1,4 @@
+ArazMeyve, 1133, 1000
+AylarTarim, 1298, 1500
+HasanBey, 1322, 200
+ZehraCiftci, 1429, 1250

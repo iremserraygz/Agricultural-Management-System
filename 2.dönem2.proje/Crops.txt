@@ -1,0 +1,10 @@
+RedApple, fruit, 45, winter, sweet, 3, 1133
+Orange, fruit, 50, autumn, sour, 4, 5967
+Kiwi, fruit, 10, autumn, sour, 10, 1133
+Parsley, vegetable, 25, Samsun, 1429
+Mint, vegetable, 15, Adana, 1429
+GreenApple, fruit, 25, winter, sweet, 6, 1133
+Orange, fruit, 20, autumn, sour, 4, 1322
+GreenApple, fruit, 5, winter, sweet, 6, 5343
+GreenBeans, vegetable, 22, Bursa, 1322
+Banana, fruit, 63, summer, sweet, 12, 5343
